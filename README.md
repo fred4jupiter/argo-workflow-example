@@ -4,7 +4,9 @@ Playground for testing Argo Workflow.
 
 ## Prerequisites
 
-You need `k3d` and `kubectl` installed.
+You need `k3d` and `kubectl` installed. 
+
+See [Argo Workflows Github page](https://github.com/argoproj/argo-workflows) for the main project.
 
 ## Installation
 
